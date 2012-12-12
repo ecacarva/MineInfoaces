@@ -1,0 +1,61 @@
+VARIABLES;;;
+V1;N£mero de estudiantes matriculados el 1¯ de Abril;22.388;Regresar
+V2;N£mero de estudiantes matriculados el 1¯ de Octubre;;Regresar
+V3;N£mero de docentes equivalente a tiempo completo (ETC);1.537;Regresar
+V4;N£mero de personal tÇcnico, administrativo y de servicios;2.777;Regresar
+V5;N£mero de titulaciones en el sector de estudios i;2237;Regresar
+V6;N£mero total de titulaciones en la IES;2237;Regresar
+V7;N£mero de titulaciones de postgrado en el sector de estudios i;0;Regresar
+V8;m2 construidos para actividades docentes, investigativas;;Regresar
+V9;m2 de †reas a cielo abierto dedicadas a docencia e investigaci¢n;;Regresar
+V10;m2 construidos para actividades deportivas y recreativas a cielo abierto;;Regresar
+V11;N£mero de estudiantes matriculados en titulaciones experimentales;;Regresar
+V12;N£mero total de estudiantes que hacen uso de los laboratorios (X4);;Regresar
+V13;N£mero total de recursos o t°tulos disponibles en cualquier soporte (bibliogr†ficos en soporte f°sico o digital, videogr†ficos, etc) disponibles para consulta/prÇstamo;;Regresar
+V14;Porcentaje de aulas con cobertura wifi;0,8;Regresar
+V15;Porcentaje de aulas con proyectores multimedia instalados;0,8;Regresar
+V16;Porcentaje de asignaturas que disponen de aula virtual activa;;Regresar
+V17;N£mero de estudiantes matriculados por primera vez en la titulaci¢n j;;Regresar
+V18;N£mero total de estudiantes con calificaci¢n de excelente matriculado por primera vez en la titulaci¢n j;;Regresar
+V19;N£mero de estudiantes de una titulaci¢n o carrera j no pertenecientes a la regi¢n;;Regresar
+V20;N£mero total de estudiantes de la titulaci¢n o carrera j;;Regresar
+V21;N£mero de estudiantes mujeres de una titulaci¢n o carrera j;;Regresar
+V22;N£mero de estudiantes de postgrado en un sector de estudios i;;Regresar
+V23;N£mero total de estudiantes de un sector de estudios i;;Regresar
+V24;N£mero de docentes doctores ETC;955;Regresar
+V25;N£mero de estudiantes que han iniciado los cursos de una titulaci¢n o carrera j en el a§o n 2 y que no est†n matriculados en ella en el a§o n ni en el a§o n-1;;Regresar
+V26;N£mero de estudiantes que han iniciado los cursos de una carrera o titulaci¢n j de una IES en el a§o n-2;;Regresar
+V27;N£mero de crÇditos (o en su defecto de asignaturas) superados en una titulaci¢n o carrera j en el a§o n;;Regresar
+V28;N£mero de crÇditos (o en su defecto de asignaturas) que integran la curricula de una titulaci¢n o carrera j en el a§o n;;Regresar
+V29;N£mero de estudiantes de una cohorte de entrada C en una titulaci¢n o carrera j que logran finalizarla en el tiempo previsto m†s 1 a§o.;;Regresar
+V30;N£mero de estudiantes ingresados en la cohorte C de la titulaci¢n o carrera j;;Regresar
+V31;N£mero de Egresados titulados en el a§o n de una titulaci¢n j  2011;2.237;Regresar
+V32;N£mero de estudiantes egresados de una titulaci¢n o carrera j satisfechos con su formaci¢n;;Regresar
+V33;Total de estudiantes que culminaron la titulaci¢n o carrera j cuatro a§os antes;;Regresar
+V34;N£mero de egresados en el a§o n-4 de una titulaci¢n o carrera j, y que est†n ocupados;;Regresar
+V35;N£mero de egresados en el a§o n-4, de una titulaci¢n o carrera j.;;Regresar
+V36;N£mero de titulados de una titulaci¢n o carrera j satisfechos con su empleo;;Regresar
+V37;N£mero de publicaciones cient°ficas en bases de datos ISI en el †rea de conocimiento k;;Regresar
+V38;N£mero de investigadores ETC en el †rea de conocimiento k;;Regresar
+V39;Suma de los °ndices de impacto de las publicaciones cient°ficas en bases de datos ISI por ?rea de Conocimiento;;Regresar
+V40;N£mero de t°tulos de Doctor emitidos en los £ltimos 5 a§os;;Regresar
+V41;Ingresos liquidados (derechos reconocidos) en el presupuesto de la IES por recursos captados para actividades de I+D+i, financiados con recursos p£blicos;;Regresar
+V42;Ingresos liquidados (derechos reconocidos) en el presupuesto de la IES por recursos captados para actividades de I+D+i, financiados con recursos privados;;Regresar
+V43;N£mero de patentes registradas en los £ltimos 5 a§os  *ATê 2011;6;Regresar
+V44;N£mero de cursos de Formaci¢n Continua ofertados en el a§o;76;Regresar
+V45;N£mero de estudiantes matriculados en cursos /actividades de Formaci¢n Continua;24.650;Regresar
+V46;N£mero de horas impartidas en actividades de Formaci¢n Continua;;Regresar
+V47;Presupuesto destinado a la Formaci¢n Continua;;Regresar
+V48;Presupuesto global de la IES;;Regresar
+V49;Presupuesto destinado a Extensi¢n y Transferencia;;Regresar
+V50;PIB per c†pita de la regi¢n;;Regresar
+V51;PEA Ocupada de la regi¢n;;Regresar
+V52;PEA Total de la regi¢n;;Regresar
+V53;N£mero total de titulados en ES ocupados de la regi¢n;;Regresar
+V54;N£mero de j¢venes de 0 a 29 a§os de la regi¢n;;Regresar
+V55;Total de la poblaci¢n de la regi¢n;;Regresar
+V56;PEA de la regi¢n en el sector r (Sector primario, secundario, etc.);;Regresar
+V57;N£mero total de titulados de ES de entre 25 y 65 a§os de la regi¢n;;Regresar
+V58;Total de la poblaci¢n de entre 25 y 65 a§os de la regi¢n;;Regresar
+V59;N£mero total de estudiantes secundarios de la regi¢n.;;Regresar
+V60;Total de la poblaci¢n mayor a 15 a§os de la regi¢n;;Regresar
