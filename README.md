@@ -1,5 +1,5 @@
-MineInfoaces
-============
+MineInfoaces - Project at UEM
+=============================
 
 INFOACES es un ambicioso proyecto cuyo objetivo es contribuir a la mejora de la calidad y pertinencia de 
 las Instituciones de Educación Superior (IES) de América Latina e incrementar su contribución al desarrollo 
